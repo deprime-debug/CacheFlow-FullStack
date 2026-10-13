@@ -1,0 +1,6 @@
+{
+  "name": "SpendFlow - Full Stack Expense Tracker",
+  "description": "Full-stack expense tracking platform with JWT authentication, relational data models, category-based monthly spending reports, and interactive trend visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
